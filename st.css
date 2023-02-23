@@ -1,0 +1,76 @@
+@font-face {
+    font-family:'rudawregular2';
+    src:url('rudawregular2.ttf');
+    }
+/* snor*************************snor */
+
+body{
+
+    background-color: #1d1b1b;
+
+}
+/* snor*************************snor */
+
+nav{
+font-family: rudawregular2 ;
+background-color: #ec4d37;
+text-align: center;
+border-radius: 5px;
+margin: 10px;
+height:36px;
+}
+.ptag{
+margin-top: 3px;
+color: #1d1b1b;
+font-size:22px;
+/* snor*************************snor */
+
+}
+.lb{
+  font-family: rudawregular2 ;
+
+  color: rgb(255, 255, 255);
+
+}
+div{
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+/* snor*************************snor */
+.in{
+color: rgb(0, 0, 0);
+    font-family: rudawregular2 ;
+border-radius:9px;
+font-size: 25px;
+border-color: #1d1b1b;
+height: 30px;
+margin-top:4px;
+background-color: #ffffff;
+
+
+}
+
+
+.bu{
+    background-color: #ec4d37;
+    font-family: rudawregular2 ;
+margin-top: 5px;
+border-radius:33px;
+color:  #1d1b1b;
+border-color:rgb(56, 46, 90);
+
+font-size: 20px;
+}
+
+/* snor*************************snor */
+
+.nebu{
+font-size: 17px;
+    background-color:#ec4d37;
+  
+    color: #1d1b1b;
+    margin-top: 28px;
+    font-family: rudawregular2 ;
+    border-radius:6px;
+}
